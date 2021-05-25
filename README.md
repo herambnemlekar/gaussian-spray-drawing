@@ -1,1 +1,1 @@
-# gaussian-spray-drawing
+# Gaussian Spray Drawing
